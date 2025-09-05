@@ -1,5 +1,6 @@
 
-import courses from '../../../data/courses.json';
+import courses from '../../../data/courses';
+
 import Link from 'next/link';
 
 type Props = { params: { slug: string } };
