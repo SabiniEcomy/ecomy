@@ -1,6 +1,6 @@
 
 import Link from 'next/link';
-import courses from '../data/courses.json';
+import courses from '../data/courses';
 
 export default function Home() {
   return (
