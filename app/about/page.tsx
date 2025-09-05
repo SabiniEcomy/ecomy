@@ -1,0 +1,1 @@
+export default function About(){return (<div className='max-w-5xl mx-auto px-4 py-12'><h1 className='text-2xl font-bold'>About</h1><p className='mt-4 text-gray-700'>ECOMY Academy: contenuti pratici per PMI e professionisti.</p></div>)}
